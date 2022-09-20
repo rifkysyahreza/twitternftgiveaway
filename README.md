@@ -17,3 +17,9 @@ package-lock.json
 taguser.txt
 user.txt
 ```
+3. fill your credential in user.txt with username|password format, each line each account, example:
+```
+username1|password1
+username2|password2
+username3|password3
+```
