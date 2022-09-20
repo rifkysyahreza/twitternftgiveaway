@@ -23,3 +23,4 @@ username1|password1
 username2|password2
 username3|password3
 ```
+4. taguser.txt is contained username you want to tag
